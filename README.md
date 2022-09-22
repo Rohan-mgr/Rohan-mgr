@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Entertainment Hub](https://entertainmenthub-2ac12.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://rohanmagar-b0bf0.web.app/](https://rohanmagar-b0bf0.web.app/)
+- 👨‍💻 All of my projects are available at [https://rohanmagar-b0bf0.web.app/projects/](https://rohanmagar-b0bf0.web.app/projects/)
 
 - 💬 Ask me about **MERN Stack**
 
