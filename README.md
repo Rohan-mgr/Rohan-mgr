@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with [Entertainment Hub](https://entertainmenthub-2ac12.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://rohanmagar-b0bf0.web.app/projects/](https://rohanmagar-b0bf0.web.app/projects/)
+- 👨‍💻 All of my projects are available at [https://rohanmagar.com](https://rohanmagar.com)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **rohan.magar.415@gmail.com**
 
-- 📄 Know about my experiences [https://rohanmagar-b0bf0.web.app/static/media/resume.9b913f1d510821355801.pdf](https://rohanmagar-b0bf0.web.app/static/media/resume.9b913f1d510821355801.pdf)
+- 📄 Know about my experiences [https://rohanmagar.com/static/media/Rohan-CV.fb39ceb86ed5e40b0be6.pdf](https://rohanmagar.com/static/media/Rohan-CV.fb39ceb86ed5e40b0be6.pdf)
 
 - ⚡ Fun fact **Semicolon is my destiny;**
 
