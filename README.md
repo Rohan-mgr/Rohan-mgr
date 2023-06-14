@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rohan.magar.415@gmail.com**
 
-- 📄 Know about my experiences [https://rohanmagar.com/static/media/Rohan-CV.fb39ceb86ed5e40b0be6.pdf](https://rohanmagar.com/static/media/Rohan-CV.fb39ceb86ed5e40b0be6.pdf)
+- 📄 Know about my experiences [https://rohanmagar.com/static/media/Rohan-CV.48e29a38f922d5e57cb3.pdf](https://rohanmagar.com/static/media/Rohan-CV.48e29a38f922d5e57cb3.pdf)
 
 - ⚡ Fun fact **Semicolon is my destiny;**
 
