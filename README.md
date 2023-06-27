@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **nodejs and postgres**
 
-- 🤝 I’m looking for help with [Entertainment Hub](https://entertainmenthub-2ac12.web.app/)
-
 - 👨‍💻 All of my projects are available at [https://rohanmagar.com](https://rohanmagar.com)
 
 - 💬 Ask me about **Web development, Javascript, Design and any Tech-related stuff.**
