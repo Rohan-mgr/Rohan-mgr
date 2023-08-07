@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **rohan.magar.415@gmail.com**
 
-- 📄 Know about my experiences [https://rohanmagar.com/static/media/Rohan-CV.48e29a38f922d5e57cb3.pdf](https://rohanmagar.com/static/media/Rohan-CV.48e29a38f922d5e57cb3.pdf)
-
 - ⚡ Fun fact **Semicolon is my destiny;**
 
 <h3 align="left">Languages and Tools:</h3>
