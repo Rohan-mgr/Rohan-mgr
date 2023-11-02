@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **nodejs and postgres**
 
-- 👨‍💻 All of my projects are available at [https://rohanmagar.com](https://rohanmagar.com)
+- 👨‍💻 All of my projects are available at [https://rohanmagar.com.np](https://rohanmagar.com.np)
 
 - 💬 Ask me about **Web development, Javascript, Design and any Tech-related stuff.**
 
