@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-mgr&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-mgr" /> </p>
 
-- 🌱 I’m currently learning **ruby on rails**
+- 🌱 I’m currently learning **AWS(Amazon Web Services)**
 
 - 👨‍💻 All of my projects are available at [https://rohanmagar.com.np](https://rohanmagar.com.np)
 
